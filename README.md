@@ -1,4 +1,4 @@
-# EBF: Sitzung 3
+# EBF: Sitzung 4
 
 Lecture slides for **Empirische Bildungsforschung (EBF)** at FAU Nürnberg-Erlangen, built with [Reveal.js](https://revealjs.com) and [Vite](https://vitejs.dev).
 
